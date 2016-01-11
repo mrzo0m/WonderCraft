@@ -1,0 +1,1146 @@
+Starting Build
+Settings evaluated using settings file 'C:\master\settings.gradle'.
+Projects loaded. Root project using build file 'C:\Java\Minecraft\WonderCraft\build.gradle'.
+Included projects: [root project 'WonderCraft']
+Evaluating root project 'WonderCraft' using build file 'C:\Java\Minecraft\WonderCraft\build.gradle'.
+Resource missing. [HTTP GET: https://jcenter.bintray.com/net/minecraftforge/gradle/ForgeGradle/2.1-SNAPSHOT/maven-metadata.xml]
+Resource missing. [HTTP HEAD: https://jcenter.bintray.com/net/minecraftforge/gradle/ForgeGradle/2.1-SNAPSHOT/ForgeGradle-2.1-SNAPSHOT.pom]
+Resource missing. [HTTP HEAD: https://jcenter.bintray.com/net/minecraftforge/gradle/ForgeGradle/2.1-SNAPSHOT/ForgeGradle-2.1-SNAPSHOT.jar]
+Cached resource Fri Jan 01 00:07:39 MSK 2016 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/gradle/ForgeGradle/2.1-SNAPSHOT/ForgeGradle-2.1-20151231.210738-15.pom).
+Cached resource Mon Sep 16 03:59:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/tony19/named-regexp/0.2.3/named-regexp-0.2.3.pom).
+Cached resource Mon Mar 07 15:42:48 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Cached resource Mon Mar 07 15:42:48 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Cached resource Thu Jul 28 09:00:10 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/net/sf/opencsv/opencsv/2.3/opencsv-2.3.pom).
+Cached resource Wed Oct 17 22:34:34 MSK 2012 is up-to-date (lastModified: https://jcenter.bintray.com/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.pom).
+Cached resource Sat May 24 12:31:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.pom).
+Cached resource Sat May 24 12:30:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom).
+Cached resource Tue Apr 19 20:07:00 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Tue Apr 19 20:07:00 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Sat May 24 12:30:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom).
+Cached resource Wed Sep 11 19:54:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/jponge/lzma-java/1.3/lzma-java-1.3.pom).
+Cached resource Mon Oct 28 22:28:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/abrarsyed/jastyle/jAstyle/1.2/jAstyle-1.2.pom).
+Cached resource Fri Dec 05 00:16:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/net/sf/trove4j/trove4j/2.1.0/trove4j-2.1.0.pom).
+Cached resource Sat Feb 22 18:05:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.pom).
+Cached resource Sat Feb 22 18:04:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom).
+Cached resource Fri Jun 28 19:40:36 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/project/7/project-7.pom).
+Cached resource Thu Jan 17 19:23:18 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/13/apache-13.pom).
+Cached resource Thu Jan 17 19:23:18 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/13/apache-13.pom).
+Cached resource Fri Jun 28 19:40:36 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/project/7/project-7.pom).
+Cached resource Sat Feb 22 18:04:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom).
+Cached resource Tue May 14 01:56:52 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom).
+Cached resource Mon Aug 25 22:48:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/guava/guava/18.0/guava-18.0.pom).
+Cached resource Mon Aug 25 22:48:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom).
+Cached resource Mon Aug 25 22:48:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom).
+Resource missing. [HTTP GET: https://jcenter.bintray.com/net/minecraftforge/fernflower/2.0-SNAPSHOT/maven-metadata.xml]
+Resource missing. [HTTP HEAD: https://jcenter.bintray.com/net/minecraftforge/fernflower/2.0-SNAPSHOT/fernflower-2.0-SNAPSHOT.pom]
+Resource missing. [HTTP HEAD: https://jcenter.bintray.com/net/minecraftforge/fernflower/2.0-SNAPSHOT/fernflower-2.0-SNAPSHOT.jar]
+Cached resource Mon Dec 14 13:09:47 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/fernflower/2.0-SNAPSHOT/fernflower-2.0-20151214.100946-17.pom).
+Cached resource Sat Feb 22 18:06:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.pom).
+Cached resource Mon Oct 08 03:06:46 MSK 2012 is up-to-date (lastModified: https://jcenter.bintray.com/com/cloudbees/diff4j/1.1/diff4j-1.1.pom).
+Cached resource Tue Mar 29 19:25:15 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/com/cloudbees/cloudbees-oss-parent/1/cloudbees-oss-parent-1.pom).
+Cached resource Tue Mar 29 19:25:15 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/com/cloudbees/cloudbees-oss-parent/1/cloudbees-oss-parent-1.pom).
+Cached resource Sun Aug 31 15:45:42 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/trove/trove/1.0.2/trove-1.0.2.pom).
+Cached resource Thu Feb 13 00:44:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom).
+Cached resource Thu Feb 13 00:43:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom).
+Cached resource Thu Feb 13 00:43:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom).
+Cached resource Fri May 17 00:05:23 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom).
+Cached resource Tue Jan 22 21:25:57 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Cached resource Tue Jan 22 21:25:57 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Cached resource Sat Dec 03 06:38:26 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6.pom).
+Cached resource Fri Sep 16 19:56:20 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/22/commons-parent-22.pom).
+Cached resource Fri Feb 11 02:56:43 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/9/apache-9.pom).
+Cached resource Fri Feb 11 02:56:43 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/9/apache-9.pom).
+Cached resource Fri Sep 16 19:56:20 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/22/commons-parent-22.pom).
+Cached resource Wed May 19 15:01:55 MSD 2010 is up-to-date (lastModified: https://jcenter.bintray.com/org/jvnet/localizer/localizer/1.12/localizer-1.12.pom).
+Cached resource Wed May 19 15:02:09 MSD 2010 is up-to-date (lastModified: https://jcenter.bintray.com/org/jvnet/localizer/localizer-parent/1.12/localizer-parent-1.12.pom).
+Cached resource Wed May 19 15:02:09 MSD 2010 is up-to-date (lastModified: https://jcenter.bintray.com/org/jvnet/localizer/localizer-parent/1.12/localizer-parent-1.12.pom).
+Cached resource Sun Aug 31 15:45:30 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/commons-io/commons-io/1.4/commons-io-1.4.pom).
+Cached resource Sun Aug 31 15:46:18 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/7/commons-parent-7.pom).
+Cached resource Sun Aug 31 15:46:10 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/4/apache-4.pom).
+Cached resource Sun Aug 31 15:46:10 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/apache/4/apache-4.pom).
+Cached resource Sun Aug 31 15:46:18 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/commons/commons-parent/7/commons-parent-7.pom).
+Cached resource Fri Jan 01 00:07:38 MSK 2016 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/gradle/ForgeGradle/2.1-SNAPSHOT/ForgeGradle-2.1-20151231.210738-15.jar).
+Cached resource Mon Sep 16 03:59:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/tony19/named-regexp/0.2.3/named-regexp-0.2.3.jar).
+Cached resource Thu Jul 28 09:00:10 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar).
+Cached resource Wed Oct 17 22:34:35 MSK 2012 is up-to-date (lastModified: https://jcenter.bintray.com/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar).
+Cached resource Sat May 24 12:31:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.jar).
+Cached resource Wed Sep 11 19:54:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar).
+Cached resource Mon Oct 28 22:28:00 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/github/abrarsyed/jastyle/jAstyle/1.2/jAstyle-1.2.jar).
+Cached resource Fri Dec 05 00:16:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/net/sf/trove4j/trove4j/2.1.0/trove4j-2.1.0.jar).
+Cached resource Sat Feb 22 18:05:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar).
+Cached resource Tue May 14 01:56:52 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar).
+Cached resource Mon Aug 25 22:48:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/com/google/guava/guava/18.0/guava-18.0.jar).
+Cached resource Mon Dec 14 13:09:47 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/fernflower/2.0-SNAPSHOT/fernflower-2.0-20151214.100946-17.jar).
+Cached resource Sat Feb 22 18:06:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar).
+Cached resource Mon Oct 08 03:06:46 MSK 2012 is up-to-date (lastModified: https://jcenter.bintray.com/com/cloudbees/diff4j/1.1/diff4j-1.1.jar).
+Cached resource Mon Aug 01 13:50:38 MSD 2005 is up-to-date (lastModified: https://jcenter.bintray.com/trove/trove/1.0.2/trove-1.0.2.jar).
+Cached resource Thu Feb 13 00:44:00 MSK 2014 is up-to-date (lastModified: https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar).
+Cached resource Fri May 17 00:05:21 MSK 2013 is up-to-date (lastModified: https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar).
+Cached resource Sat Dec 03 06:38:26 MSK 2011 is up-to-date (lastModified: https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6.jar).
+Cached resource Wed May 19 15:01:55 MSD 2010 is up-to-date (lastModified: https://jcenter.bintray.com/org/jvnet/localizer/localizer/1.12/localizer-1.12.jar).
+Cached resource Sun Aug 31 15:45:30 MSD 2008 is up-to-date (lastModified: https://jcenter.bintray.com/commons-io/commons-io/1.4/commons-io-1.4.jar).
+This set of MCP mappings was designed for MC 1.8. Use at your own peril.
+#################################################
+         ForgeGradle 2.1-SNAPSHOT-21e9d79        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+               Powered by MCP unknown               
+             http://modcoderpack.com             
+         by: Searge, ProfMobius, Fesh0r,         
+         R4wk, ZeuX, IngisKahn, bspkrs           
+#################################################
+file or directory 'C:\Java\Minecraft\WonderCraft\src\api\resources', not found
+All projects evaluated.
+Selected primary task 'setupDecompWorkspace' from project :
+Selected primary task 'idea' from project :
+Tasks to be executed: [task ':deobfCompileDummyTask', task ':deobfProvidedDummyTask', task ':getVersionJson', task ':extractUserdev', task ':extractDependencyATs', task ':extractMcpData', task ':extractMcpMappings', task ':genSrgs', task ':downloadClient', task ':downloadServer', task ':splitServerJar', task ':mergeJars', task ':deobfMcSRG', task ':decompileMc', task ':fixMcSources', task ':applySourcePatches', task ':remapMcSources', task ':recompileMc', task ':extractNatives', task ':getAssetIndex', task ':getAssets', task ':makeStart', task ':setupDecompWorkspace', task ':ideaModule', task ':ideaProject', task ':ideaWorkspace', task ':idea']
+:deobfCompileDummyTask (Thread[main,5,main]) started.
+:deobfCompileDummyTask
+Executing task ':deobfCompileDummyTask' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+:deobfCompileDummyTask (Thread[main,5,main]) completed. Took 0.01 secs.
+:deobfProvidedDummyTask (Thread[main,5,main]) started.
+:deobfProvidedDummyTask
+Executing task ':deobfProvidedDummyTask' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:deobfProvidedDummyTask (Thread[main,5,main]) completed. Took 0.004 secs.
+:getVersionJson (Thread[main,5,main]) started.
+:getVersionJson
+Executing task ':getVersionJson' (up-to-date check took 0.019 secs) due to:
+  Task.upToDateWhen is false.
+:getVersionJson (Thread[main,5,main]) completed. Took 0.368 secs.
+:extractUserdev (Thread[main,5,main]) started.
+:extractUserdev
+Cached resource Wed Dec 30 06:39:50 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655.pom).
+Cached resource Wed Dec 30 06:39:52 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655-userdev.jar).
+Skipping task ':extractUserdev' as it is up-to-date (took 0.564 secs).
+:extractUserdev UP-TO-DATE
+:extractUserdev (Thread[main,5,main]) completed. Took 0.565 secs.
+:extractDependencyATs (Thread[main,5,main]) started.
+:extractDependencyATs
+Skipping task ':extractDependencyATs' as task onlyIf is false.
+:extractDependencyATs SKIPPED
+:extractDependencyATs (Thread[main,5,main]) completed. Took 0.0 secs.
+:extractMcpData (Thread[main,5,main]) started.
+:extractMcpData
+Resource missing. [HTTP GET: http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.8.8/mcp-1.8.8.pom]
+Resource missing. [HTTP GET: https://repo1.maven.org/maven2/de/oceanlabs/mcp/mcp/1.8.8/mcp-1.8.8.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/de/oceanlabs/mcp/mcp/1.8.8/mcp-1.8.8-srg.zip]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/de/oceanlabs/mcp/mcp/1.8.8/mcp-1.8.8.pom]
+Cached resource Sat Dec 19 00:57:04 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.8.8/mcp-1.8.8-srg.zip).
+Skipping task ':extractMcpData' as task onlyIf is false.
+:extractMcpData SKIPPED
+:extractMcpData (Thread[main,5,main]) completed. Took 1.875 secs.
+:extractMcpMappings (Thread[main,5,main]) started.
+:extractMcpMappings
+Resource missing. [HTTP GET: http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_snapshot/20151122-1.8/mcp_snapshot-20151122-1.8.pom]
+Resource missing. [HTTP GET: https://repo1.maven.org/maven2/de/oceanlabs/mcp/mcp_snapshot/20151122-1.8/mcp_snapshot-20151122-1.8.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/de/oceanlabs/mcp/mcp_snapshot/20151122-1.8/mcp_snapshot-20151122-1.8.zip]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/de/oceanlabs/mcp/mcp_snapshot/20151122-1.8/mcp_snapshot-20151122-1.8.pom]
+Cached resource Sun Nov 22 11:00:01 MSK 2015 is up-to-date (lastModified: http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_snapshot/20151122-1.8/mcp_snapshot-20151122-1.8.zip).
+Skipping task ':extractMcpMappings' as task onlyIf is false.
+:extractMcpMappings SKIPPED
+:extractMcpMappings (Thread[main,5,main]) completed. Took 1.744 secs.
+:genSrgs (Thread[main,5,main]) started.
+:genSrgs
+Skipping task ':genSrgs' as task onlyIf is false.
+:genSrgs SKIPPED
+:genSrgs (Thread[main,5,main]) completed. Took 0.762 secs.
+:downloadClient (Thread[main,5,main]) started.
+:downloadClient
+Skipping task ':downloadClient' as task onlyIf is false.
+:downloadClient SKIPPED
+:downloadClient (Thread[main,5,main]) completed. Took 0.494 secs.
+:downloadServer (Thread[main,5,main]) started.
+:downloadServer
+Skipping task ':downloadServer' as task onlyIf is false.
+:downloadServer SKIPPED
+:downloadServer (Thread[main,5,main]) completed. Took 0.563 secs.
+:splitServerJar (Thread[main,5,main]) started.
+:splitServerJar
+Skipping task ':splitServerJar' as task onlyIf is false.
+:splitServerJar SKIPPED
+:splitServerJar (Thread[main,5,main]) completed. Took 2.526 secs.
+:mergeJars (Thread[main,5,main]) started.
+:mergeJars
+Skipping task ':mergeJars' as task onlyIf is false.
+:mergeJars SKIPPED
+:mergeJars (Thread[main,5,main]) completed. Took 1.416 secs.
+:deobfMcSRG (Thread[main,5,main]) started.
+:deobfMcSRG
+Skipping task ':deobfMcSRG' as task onlyIf is false.
+:deobfMcSRG SKIPPED
+:deobfMcSRG (Thread[main,5,main]) completed. Took 1.252 secs.
+:decompileMc (Thread[main,5,main]) started.
+:decompileMc
+No output file found.
+Executing task ':decompileMc' (up-to-date check took 0.003 secs) due to:
+  No history is available.
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar]
+Cached resource Sat Jun 20 20:11:42 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/jline/jline/2.13/jline-2.13.pom]
+Cached resource Mon Aug 10 19:38:56 MSK 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/sonatype/oss/oss-parent/9/oss-parent-9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/sonatype/oss/oss-parent/9/oss-parent-9.jar]
+Cached resource Mon Jan 27 23:15:21 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom).
+Cached resource Mon Jan 27 23:15:21 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar]
+Cached resource Tue Aug 25 02:28:22 MSD 2009 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.jar]
+Cached resource Sat May 24 12:31:24 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.jar]
+Cached resource Sat May 24 12:30:01 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/ow2/1.3/ow2-1.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/ow2/ow2/1.3/ow2-1.3.jar]
+Cached resource Tue Apr 19 20:07:04 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Tue Apr 19 20:07:04 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Sat May 24 12:30:01 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar]
+Cached resource Tue May 20 23:11:37 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar]
+Cached resource Fri May 02 18:54:16 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.pom]
+Cached resource Wed Apr 16 13:28:42 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.pom]
+Cached resource Tue May 20 12:03:08 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.pom]
+Cached resource Tue May 20 12:13:24 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.pom]
+Cached resource Tue May 20 12:13:29 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.pom]
+Cached resource Tue May 20 12:02:21 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar]
+Cached resource Wed Apr 16 13:22:22 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.pom]
+Cached resource Tue May 20 12:02:46 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar]
+Cached resource Wed Apr 16 13:26:27 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar]
+Cached resource Tue May 20 12:10:40 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/lzma/lzma/0.0.1/lzma-0.0.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/lzma/lzma/0.0.1/lzma-0.0.1.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/lzma/lzma/0.0.1/lzma-0.0.1.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/lzma/lzma/0.0.1/lzma-0.0.1.jar]
+Cached resource Tue Nov 26 19:58:34 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/java3d/vecmath/1.5.2/vecmath-1.5.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/java3d/vecmath/1.5.2/vecmath-1.5.2.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/java3d/vecmath/1.5.2/vecmath-1.5.2.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/java3d/vecmath/1.5.2/vecmath-1.5.2.jar]
+Cached resource Sun Mar 09 20:44:53 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar]
+Cached resource Mon Jun 04 07:04:33 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/oshi-project/oshi-core/1.1/oshi-core-1.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/oshi-project/oshi-core/1.1/oshi-core-1.1.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/oshi-project/oshi-core/1.1/oshi-core-1.1.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/oshi-project/oshi-core/1.1/oshi-core-1.1.jar]
+Cached resource Fri Jan 09 17:58:58 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/dev/jna/jna/3.4.0/jna-3.4.0.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar]
+Cached resource Thu Dec 22 02:22:20 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.4.0/jna-3.4.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/dev/jna/platform/3.4.0/platform-3.4.0.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar]
+Cached resource Thu Dec 22 02:23:02 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/dev/jna/platform/3.4.0/platform-3.4.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar]
+Cached resource Tue Nov 26 19:59:34 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar]
+Cached resource Mon Jan 06 05:49:03 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/sonatype/oss/oss-parent/7/oss-parent-7.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/sonatype/oss/oss-parent/7/oss-parent-7.jar]
+Cached resource Mon Mar 07 15:42:48 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Cached resource Mon Mar 07 15:42:48 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar]
+Cached resource Tue Nov 26 19:59:42 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/codecwav/20101023/codecwav-20101023.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/codecwav/20101023/codecwav-20101023.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/codecwav/20101023/codecwav-20101023.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/codecwav/20101023/codecwav-20101023.jar]
+Cached resource Tue Nov 26 19:59:43 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar]
+Cached resource Tue Nov 26 19:59:44 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar]
+Cached resource Tue Nov 26 19:59:46 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/soundsystem/20120107/soundsystem-20120107.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/soundsystem/20120107/soundsystem-20120107.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar]
+Cached resource Tue Nov 26 19:59:47 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar]
+Cached resource Fri Aug 15 22:06:40 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/io/netty/netty-parent/4.0.23.Final/netty-parent-4.0.23.Final.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/io/netty/netty-parent/4.0.23.Final/netty-parent-4.0.23.Final.jar]
+Cached resource Fri Aug 15 22:02:40 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/netty/netty-parent/4.0.23.Final/netty-parent-4.0.23.Final.pom).
+Cached resource Fri Aug 15 22:02:40 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/netty/netty-parent/4.0.23.Final/netty-parent-4.0.23.Final.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/guava/guava/17.0/guava-17.0.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/guava/guava/17.0/guava-17.0.jar]
+Cached resource Wed Apr 23 00:47:46 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/guava/guava-parent/17.0/guava-parent-17.0.jar]
+Cached resource Wed Apr 23 00:47:19 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom).
+Cached resource Wed Apr 23 00:47:19 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar]
+Cached resource Sun Apr 06 16:21:29 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/33/commons-parent-33.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/33/commons-parent-33.jar]
+Cached resource Sat Feb 08 15:03:32 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/apache/13/apache-13.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/apache/13/apache-13.jar]
+Cached resource Thu Jan 17 19:23:18 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom).
+Cached resource Thu Jan 17 19:23:18 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom).
+Cached resource Sat Feb 08 15:03:32 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-io/commons-io/2.4/commons-io-2.4.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-io/commons-io/2.4/commons-io-2.4.jar]
+Cached resource Wed Jun 13 02:22:06 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/25/commons-parent-25.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/25/commons-parent-25.jar]
+Cached resource Fri Apr 27 14:47:46 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/apache/9/apache-9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/apache/9/apache-9.jar]
+Cached resource Fri Feb 11 02:56:43 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/9/apache-9.pom).
+Cached resource Fri Feb 11 02:56:43 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/9/apache-9.pom).
+Cached resource Fri Apr 27 14:47:46 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-codec/commons-codec/1.9/commons-codec-1.9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-codec/commons-codec/1.9/commons-codec-1.9.jar]
+Cached resource Sat Dec 21 07:57:39 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/32/commons-parent-32.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/32/commons-parent-32.jar]
+Cached resource Fri Jun 28 16:11:47 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom).
+Cached resource Fri Jun 28 16:11:47 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jinput/jinput/2.0.5/jinput-2.0.5.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar]
+Cached resource Wed Mar 23 21:19:07 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jutils/jutils/1.0.0/jutils-1.0.0.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar]
+Cached resource Tue Mar 22 17:55:02 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar]
+Cached resource Tue May 14 01:56:52 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/mojang/authlib/1.5.21/authlib-1.5.21.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/mojang/authlib/1.5.21/authlib-1.5.21.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/mojang/authlib/1.5.21/authlib-1.5.21.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/mojang/authlib/1.5.21/authlib-1.5.21.jar]
+Cached resource Fri Apr 17 16:39:28 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/mojang/realms/1.7.39/realms-1.7.39.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/mojang/realms/1.7.39/realms-1.7.39.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/mojang/realms/1.7.39/realms-1.7.39.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/mojang/realms/1.7.39/realms-1.7.39.jar]
+Cached resource Thu Oct 01 12:08:44 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/com/mojang/realms/1.7.39/realms-1.7.39.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar]
+Cached resource Fri May 09 23:17:52 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar]
+Cached resource Sat Feb 22 18:05:38 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.jar]
+Cached resource Sat Feb 22 18:04:20 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/project/7/project-7.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/project/7/project-7.jar]
+Cached resource Fri Jun 28 19:40:36 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/project/7/project-7.pom).
+Cached resource Fri Jun 28 19:40:36 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/project/7/project-7.pom).
+Cached resource Sat Feb 22 18:04:20 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar]
+Cached resource Fri May 17 00:05:23 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/28/commons-parent-28.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/commons/commons-parent/28/commons-parent-28.jar]
+Cached resource Tue Jan 22 21:25:57 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Cached resource Tue Jan 22 21:25:57 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar]
+Cached resource Thu Feb 13 00:44:11 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.jar]
+Cached resource Thu Feb 13 00:43:32 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom).
+Cached resource Thu Feb 13 00:43:32 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar]
+Cached resource Sat Sep 14 18:16:58 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j/2.0-beta9/log4j-2.0-beta9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j/2.0-beta9/log4j-2.0-beta9.jar]
+Cached resource Sat Sep 14 18:16:37 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.0-beta9/log4j-2.0-beta9.pom).
+Cached resource Sat Sep 14 18:16:37 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.0-beta9/log4j-2.0-beta9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar]
+Cached resource Sat Sep 14 18:20:46 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar]
+Cached resource Tue Feb 10 10:43:48 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.jar]
+Cached resource Tue Feb 10 10:43:45 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.pom).
+Cached resource Tue Feb 10 10:43:45 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/parent/2.9.4-nightly-20150209/parent-2.9.4-nightly-20150209.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar]
+Cached resource Tue Feb 10 10:43:47 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch/6.5/twitch-6.5.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch/6.5/twitch-6.5.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch/6.5/twitch-6.5.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch/6.5/twitch-6.5.jar]
+Cached resource Mon Mar 03 12:55:13 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/jansi/jansi/1.11/jansi-1.11.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar]
+Cached resource Mon May 13 17:21:23 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.jar]
+Cached resource Mon May 13 17:21:07 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.jar]
+Cached resource Mon Aug 08 22:52:09 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom).
+Cached resource Mon Aug 08 22:52:09 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom).
+Cached resource Mon May 13 17:21:07 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0.pom]
+Cached resource Wed Apr 16 13:14:16 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar]
+Cached resource Wed Mar 23 21:19:27 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch-platform/6.5/twitch-platform-6.5.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-32.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch-platform/6.5/twitch-platform-6.5.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-32.jar]
+Cached resource Mon Mar 03 12:55:13 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar]
+Cached resource Tue Nov 26 19:59:10 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar]
+Cached resource Tue Feb 10 10:43:48 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.pom).
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar]
+Cached resource Mon Jul 30 02:17:59 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom).
+Cached resource Sat Jun 20 20:11:42 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar).
+Cached resource Mon Aug 10 19:38:54 MSK 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13.jar).
+Cached resource Sat May 24 12:31:24 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3.jar).
+Cached resource Tue May 20 23:12:30 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar).
+Cached resource Fri May 02 18:54:14 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar).
+Cached resource Wed Apr 16 13:28:46 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar).
+Cached resource Tue May 20 12:03:06 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar).
+Cached resource Tue May 20 12:13:27 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar).
+Cached resource Tue May 20 12:13:50 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar).
+Cached resource Tue May 20 12:02:18 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar).
+Cached resource Wed Apr 16 13:22:19 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar).
+Cached resource Tue May 20 12:02:45 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar).
+Cached resource Wed Apr 16 13:26:26 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar).
+Cached resource Tue May 20 12:10:45 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar).
+Cached resource Tue Nov 26 19:58:34 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar).
+Cached resource Sun Mar 09 20:44:53 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar).
+Cached resource Mon Jun 04 07:04:32 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar).
+Cached resource Fri Jan 09 17:58:57 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar).
+Cached resource Thu Dec 22 02:21:51 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar).
+Cached resource Thu Dec 22 02:22:31 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar).
+Cached resource Tue Nov 26 19:59:31 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar).
+Cached resource Mon Jan 06 05:49:02 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar).
+Cached resource Tue Nov 26 19:59:42 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar).
+Cached resource Tue Nov 26 19:59:43 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar).
+Cached resource Tue Nov 26 19:59:44 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar).
+Cached resource Tue Nov 26 19:59:46 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar).
+Cached resource Tue Nov 26 19:59:47 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar).
+Cached resource Fri Aug 15 22:06:39 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar).
+Cached resource Wed Apr 23 00:47:46 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0.jar).
+Cached resource Sun Apr 06 16:21:29 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar).
+Cached resource Wed Jun 13 02:22:03 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar).
+Cached resource Sat Dec 21 07:57:36 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar).
+Cached resource Wed Mar 23 21:18:49 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar).
+Cached resource Tue Mar 22 17:55:02 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar).
+Cached resource Tue May 14 01:56:50 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar).
+Cached resource Fri Apr 17 16:39:28 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar).
+Cached resource Thu Oct 01 12:08:45 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/com/mojang/realms/1.7.39/realms-1.7.39.jar).
+Cached resource Fri May 09 23:17:52 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar).
+Cached resource Sat Feb 22 18:05:30 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar).
+Cached resource Fri May 17 00:05:21 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar).
+Cached resource Thu Feb 13 00:44:06 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar).
+Cached resource Sat Sep 14 18:16:57 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar).
+Cached resource Sat Sep 14 18:20:45 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar).
+Cached resource Tue Feb 10 10:43:47 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar).
+Cached resource Tue Feb 10 10:43:46 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar).
+Cached resource Mon Mar 03 12:55:12 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5.jar).
+Cached resource Mon May 13 17:21:22 MSK 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar).
+Cached resource Wed Apr 16 13:14:16 MSK 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0.jar).
+Cached resource Wed Mar 23 21:19:22 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar).
+Cached resource Wed Mar 23 21:19:11 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar).
+Cached resource Wed Mar 23 21:19:26 MSK 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar).
+Cached resource Mon Mar 03 12:55:12 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-32.jar).
+Cached resource Mon Mar 03 12:55:13 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-64.jar).
+Cached resource Mon Mar 03 12:55:12 MSK 2014 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar).
+Cached resource Tue Nov 26 19:58:40 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar).
+Cached resource Tue Nov 26 19:58:49 MSK 2013 is up-to-date (lastModified: https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar).
+Cached resource Tue Feb 10 10:43:46 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar).
+Cached resource Tue Feb 10 10:43:44 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar).
+Cached resource Tue Feb 10 10:43:45 MSK 2015 is up-to-date (lastModified: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar).
+Cached resource Mon Jul 30 02:17:59 MSK 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar).
+[Full GC 1031551K->934831K(1031552K), 3.6767455 secs]
+[GC 936406K(1031552K), 0.0823170 secs]
+[Full GC 1031551K->935656K(1031552K), 3.6589885 secs]
+[GC 948891K(1031552K), 0.1017914 secs]
+[Full GC 1031551K->937657K(1031552K), 3.6400037 secs]
+[Full GC 1031551K->936416K(1031552K), 3.8343763 secs]
+[GC 937995K(1031552K), 0.0866720 secs]
+[Full GC 1031551K->939720K(1031552K), 3.7893977 secs]
+[Full GC 1031551K->938712K(1031552K), 3.7619751 secs]
+[GC 952928K(1031552K), 0.1103881 secs]
+[Full GC 1031551K->940735K(1031552K), 3.7492724 secs]
+[Full GC 1031551K->935308K(1031552K), 3.7481531 secs]
+[GC 942952K(1031552K), 0.0937985 secs]
+[Full GC 1031551K->934885K(1031552K), 3.6762501 secs]
+[Full GC 1031551K->934573K(1031552K), 3.7776018 secs]
+[GC 936231K(1031552K), 0.0860077 secs]
+[Full GC 1031551K->934535K(1031552K), 3.7723675 secs]
+[Full GC 1031551K->935495K(1031552K), 3.7542942 secs]
+[GC 937158K(1031552K), 0.0858349 secs]
+[Full GC 1031551K->934555K(1031552K), 3.7041734 secs]
+[Full GC 1031551K->935419K(1031552K), 3.6935583 secs]
+[GC 937074K(1031552K), 0.0871731 secs]
+[Full GC 1031551K->934322K(1031552K), 3.8926776 secs]
+[Full GC 1031551K->935342K(1031552K), 3.7342207 secs]
+[GC 937013K(1031552K), 0.0892064 secs]
+[Full GC 1031551K->935802K(1031552K), 3.8975155 secs]
+[Full GC 1031551K->938120K(1031552K), 3.7070179 secs]
+[GC 939749K(1031552K), 0.0852166 secs]
+[Full GC[Unloading class sun.reflect.GeneratedMethodAccessor74]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor81]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor82]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor84]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor83]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor79]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor80]
+ 1031551K->935185K(1031552K), 3.7229653 secs]
+[Full GC 1031551K->935644K(1031552K), 3.7136135 secs]
+[GC 937464K(1031552K), 0.0832443 secs]
+[Full GC 1031551K->936693K(1031552K), 3.6925791 secs]
+[Full GC 1031551K->937237K(1031552K), 3.6973244 secs]
+[GC 956112K(1031552K), 0.1180278 secs]
+[Full GC[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor85]
+ 1031551K->944884K(1031552K), 3.8423385 secs]
+[Full GC[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor92]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor89]
+[Unloading class sun.reflect.GeneratedMethodAccessor75]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor88]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor91]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor90]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor86]
+[Unloading class sun.reflect.GeneratedSerializationConstructorAccessor87]
+ 1031551K->940742K(1031552K), 3.7269137 secs]
+[GC 942293K(1031552K), 0.0907472 secs]
+[Full GC 1031551K->941042K(1031552K), 3.7125585 secs]
+[Full GC 1031551K->937258K(1031552K), 3.6945289 secs]
+[GC 937275K(1031552K), 0.0875057 secs]
+[Full GC 1031551K->945121K(1031552K), 3.7169168 secs]
+[Full GC 1031551K->938280K(1031552K), 3.7015934 secs]
+[GC 939812K(1031552K), 0.0891752 secs]
+[Full GC 1031551K->940719K(1031552K), 3.8085040 secs]
+[Full GC 1031551K->936709K(1031552K), 3.9037569 secs]
+[GC 938220K(1031552K), 0.0888277 secs]
+[Full GC 1031551K->935756K(1031552K), 3.7463157 secs]
+[Full GC 1031551K->936925K(1031552K), 3.7788229 secs]
+[GC 938492K(1031552K), 0.0866019 secs]
+[Full GC 1031552K->938826K(1031552K), 3.6841283 secs]
+[Full GC 1031551K->935885K(1031552K), 3.6801722 secs]
+[GC 937453K(1031552K), 0.0847592 secs]
+[Full GC 1031551K->936799K(1031552K), 3.6827349 secs]
+[Full GC 1031551K->936747K(1031552K), 3.8049952 secs]
+[GC 938339K(1031552K), 0.0860490 secs]
+[Full GC 1031551K->936575K(1031552K), 3.6938381 secs]
+[Full GC 1031551K->937935K(1031552K), 3.7046923 secs]
+[GC 939510K(1031552K), 0.0877457 secs]
+[Full GC 1031551K->937060K(1031552K), 3.6936221 secs]
+[Full GC 1031551K->936056K(1031552K), 3.6678574 secs]
+[GC 937633K(1031552K), 0.0870766 secs]
+[Full GC 1031551K->936679K(1031552K), 3.6775019 secs]
+[Full GC 1031551K->938274K(1031552K), 3.6894371 secs]
+[GC 944584K(1031552K), 0.0945036 secs]
+[Full GC 1031551K->937539K(1031552K), 3.7808485 secs]
+[Full GC 1031551K->936715K(1031552K), 3.8434074 secs]
+[GC 938337K(1031552K), 0.0858099 secs]
+[Full GC 1031551K->937766K(1031552K), 3.7099675 secs]
+[Full GC 1031551K->937212K(1031552K), 3.7806287 secs]
+[GC 938776K(1031552K), 0.0862078 secs]
+[Full GC 1031551K->937002K(1031552K), 3.6229028 secs]
+[GC 985331K(1031552K), 0.1602602 secs]
+[Full GC 1031551K->937421K(1031552K), 3.6425347 secs]
+[GC 939060K(1031552K), 0.0876675 secs]
+:decompileMc (Thread[main,5,main]) completed. Took 33 mins 42.018 secs.
+:fixMcSources (Thread[main,5,main]) started.
+:fixMcSources
+No output file found.
+Executing task ':fixMcSources' (up-to-date check took 0.171 secs) due to:
+  No history is available.
+:fixMcSources (Thread[main,5,main]) completed. Took 33.334 secs.
+:applySourcePatches (Thread[main,5,main]) started.
+:applySourcePatches
+No output file found.
+Executing task ':applySourcePatches' (up-to-date check took 0.003 secs) due to:
+  No history is available.
+Reading patches
+Injecting injects (sources and resources)
+Applying patches
+Patch succeeded: net/minecraft/block/Block.java
+Patch succeeded: net/minecraft/block/BlockBush.java
+Patch succeeded: net/minecraft/block/BlockButton.java
+Patch succeeded: net/minecraft/block/BlockCactus.java
+Patch succeeded: net/minecraft/block/BlockChest.java
+Patch succeeded: net/minecraft/block/BlockCocoa.java
+Patch succeeded: net/minecraft/block/BlockCrops.java
+Patch succeeded: net/minecraft/block/BlockDeadBush.java
+Patch succeeded: net/minecraft/block/BlockDoor.java
+Patch succeeded: net/minecraft/block/BlockDoublePlant.java
+Patch succeeded: net/minecraft/block/BlockFalling.java
+Patch succeeded: net/minecraft/block/BlockFarmland.java
+Patch succeeded: net/minecraft/block/BlockFire.java
+Patch succeeded: net/minecraft/block/BlockFlowerPot.java
+Patch succeeded: net/minecraft/block/BlockGrass.java
+Patch succeeded: net/minecraft/block/BlockHugeMushroom.java
+Patch succeeded: net/minecraft/block/BlockIce.java
+Patch succeeded: net/minecraft/block/BlockLadder.java
+Patch succeeded: net/minecraft/block/BlockLeaves.java
+Patch succeeded: net/minecraft/block/BlockLever.java
+Patch succeeded: net/minecraft/block/BlockLog.java
+Patch succeeded: net/minecraft/block/BlockMobSpawner.java
+Patch succeeded: net/minecraft/block/BlockMushroom.java
+Patch succeeded: net/minecraft/block/BlockMycelium.java
+Patch succeeded: net/minecraft/block/BlockNetherWart.java
+Patch succeeded: net/minecraft/block/BlockNewLeaf.java
+Patch succeeded: net/minecraft/block/BlockNote.java
+Patch succeeded: net/minecraft/block/BlockOldLeaf.java
+Patch succeeded: net/minecraft/block/BlockOre.java
+Patch succeeded: net/minecraft/block/BlockPane.java
+Patch succeeded: net/minecraft/block/BlockPistonBase.java
+Patch succeeded: net/minecraft/block/BlockPistonMoving.java
+Patch succeeded: net/minecraft/block/BlockPotato.java
+Patch succeeded: net/minecraft/block/BlockPumpkin.java
+Patch succeeded: net/minecraft/block/BlockQuartz.java
+Patch succeeded: net/minecraft/block/BlockRailBase.java
+Patch succeeded: net/minecraft/block/BlockRedstoneComparator.java
+Patch succeeded: net/minecraft/block/BlockRedstoneDiode.java
+Patch succeeded: net/minecraft/block/BlockRedstoneOre.java
+Patch succeeded: net/minecraft/block/BlockRedstoneWire.java
+Patch succeeded: net/minecraft/block/BlockReed.java
+Patch succeeded: net/minecraft/block/BlockRotatedPillar.java
+Patch succeeded: net/minecraft/block/BlockSapling.java
+Patch succeeded: net/minecraft/block/BlockSkull.java
+Patch succeeded: net/minecraft/block/BlockSlab.java
+Patch succeeded: net/minecraft/block/BlockSnow.java
+Patch succeeded: net/minecraft/block/BlockStairs.java
+Patch succeeded: net/minecraft/block/BlockStem.java
+Patch succeeded: net/minecraft/block/BlockTallGrass.java
+Patch succeeded: net/minecraft/block/BlockTorch.java
+Patch succeeded: net/minecraft/block/BlockTrapDoor.java
+Patch succeeded: net/minecraft/block/BlockTripWireHook.java
+Patch succeeded: net/minecraft/block/BlockVine.java
+Patch succeeded: net/minecraft/block/state/BlockPistonStructureHelper.java
+Patch succeeded: net/minecraft/block/state/BlockState.java
+Patch succeeded: net/minecraft/block/state/BlockStateBase.java
+Patch succeeded: net/minecraft/client/ClientBrandRetriever.java
+Patch succeeded: net/minecraft/client/LoadingScreenRenderer.java
+Patch succeeded: net/minecraft/client/Minecraft.java
+Patch succeeded: net/minecraft/client/audio/SoundManager.java
+Patch succeeded: net/minecraft/client/entity/AbstractClientPlayer.java
+Patch succeeded: net/minecraft/client/entity/EntityPlayerSP.java
+Patch succeeded: net/minecraft/client/gui/FontRenderer.java
+Patch succeeded: net/minecraft/client/gui/GuiButton.java
+Patch succeeded: net/minecraft/client/gui/GuiChat.java
+Patch succeeded: net/minecraft/client/gui/GuiCreateWorld.java
+Patch succeeded: net/minecraft/client/gui/GuiIngameMenu.java
+Patch succeeded: net/minecraft/client/gui/GuiMainMenu.java
+Patch succeeded: net/minecraft/client/gui/GuiMultiplayer.java
+Patch succeeded: net/minecraft/client/gui/GuiOverlayDebug.java
+Patch succeeded: net/minecraft/client/gui/GuiScreen.java
+Patch succeeded: net/minecraft/client/gui/GuiSelectWorld.java
+Patch succeeded: net/minecraft/client/gui/GuiSleepMP.java
+Patch succeeded: net/minecraft/client/gui/GuiSlot.java
+Patch succeeded: net/minecraft/client/gui/ServerListEntryNormal.java
+Patch succeeded: net/minecraft/client/gui/achievement/GuiAchievements.java
+Patch succeeded: net/minecraft/client/gui/achievement/GuiStats.java
+Patch succeeded: net/minecraft/client/gui/inventory/GuiContainer.java
+Patch succeeded: net/minecraft/client/gui/inventory/GuiContainerCreative.java
+Patch succeeded: net/minecraft/client/model/ModelBase.java
+Patch succeeded: net/minecraft/client/model/ModelBox.java
+Patch succeeded: net/minecraft/client/model/ModelRenderer.java
+Patch succeeded: net/minecraft/client/model/PositionTextureVertex.java
+Patch succeeded: net/minecraft/client/model/TexturedQuad.java
+Patch succeeded: net/minecraft/client/multiplayer/ChunkProviderClient.java
+Patch succeeded: net/minecraft/client/multiplayer/GuiConnecting.java
+Patch succeeded: net/minecraft/client/multiplayer/PlayerControllerMP.java
+Patch succeeded: net/minecraft/client/multiplayer/WorldClient.java
+Patch succeeded: net/minecraft/client/network/NetHandlerHandshakeMemory.java
+Patch succeeded: net/minecraft/client/network/NetHandlerLoginClient.java
+Patch succeeded: net/minecraft/client/network/NetHandlerPlayClient.java
+Patch succeeded: net/minecraft/client/network/OldServerPinger.java
+Patch succeeded: net/minecraft/client/particle/EffectRenderer.java
+Patch succeeded: net/minecraft/client/renderer/BlockModelRenderer.java
+Patch succeeded: net/minecraft/client/renderer/BlockModelShapes.java
+Patch succeeded: net/minecraft/client/renderer/BlockRendererDispatcher.java
+Patch succeeded: net/minecraft/client/renderer/EntityRenderer.java
+Patch succeeded: net/minecraft/client/renderer/InventoryEffectRenderer.java
+Patch succeeded: net/minecraft/client/renderer/ItemModelMesher.java
+Patch succeeded: net/minecraft/client/renderer/ItemRenderer.java
+Patch succeeded: net/minecraft/client/renderer/OpenGlHelper.java
+Patch succeeded: net/minecraft/client/renderer/RenderGlobal.java
+Patch succeeded: net/minecraft/client/renderer/WorldRenderer.java
+Patch succeeded: net/minecraft/client/renderer/WorldVertexBufferUploader.java
+Patch succeeded: net/minecraft/client/renderer/block/model/BakedQuad.java
+Patch succeeded: net/minecraft/client/renderer/block/model/FaceBakery.java
+Patch succeeded: net/minecraft/client/renderer/block/model/ItemCameraTransforms.java
+Patch succeeded: net/minecraft/client/renderer/block/model/ItemTransformVec3f.java
+Patch succeeded: net/minecraft/client/renderer/block/model/ModelBlockDefinition.java
+Patch succeeded: net/minecraft/client/renderer/block/statemap/StateMap.java
+Patch succeeded: net/minecraft/client/renderer/chunk/RenderChunk.java
+Patch succeeded: net/minecraft/client/renderer/entity/RenderEntityItem.java
+Patch succeeded: net/minecraft/client/renderer/entity/RenderItem.java
+Patch succeeded: net/minecraft/client/renderer/entity/RenderManager.java
+Patch succeeded: net/minecraft/client/renderer/entity/RenderPlayer.java
+Patch succeeded: net/minecraft/client/renderer/entity/RenderVillager.java
+Patch succeeded: net/minecraft/client/renderer/entity/RendererLivingEntity.java
+Patch succeeded: net/minecraft/client/renderer/entity/layers/LayerArmorBase.java
+Patch succeeded: net/minecraft/client/renderer/entity/layers/LayerBipedArmor.java
+Patch succeeded: net/minecraft/client/renderer/texture/Stitcher.java
+Patch succeeded: net/minecraft/client/renderer/texture/TextureAtlasSprite.java
+Patch succeeded: net/minecraft/client/renderer/texture/TextureManager.java
+Patch succeeded: net/minecraft/client/renderer/texture/TextureMap.java
+Patch succeeded: net/minecraft/client/renderer/texture/TextureUtil.java
+Patch succeeded: net/minecraft/client/renderer/tileentity/RenderItemFrame.java
+Patch succeeded: net/minecraft/client/renderer/tileentity/TileEntityItemStackRenderer.java
+Patch succeeded: net/minecraft/client/renderer/vertex/VertexFormatElement.java
+Patch succeeded: net/minecraft/client/resources/AbstractResourcePack.java
+Patch succeeded: net/minecraft/client/resources/FallbackResourceManager.java
+Patch succeeded: net/minecraft/client/resources/LanguageManager.java
+Patch succeeded: net/minecraft/client/resources/Locale.java
+Patch succeeded: net/minecraft/client/resources/SimpleReloadableResourceManager.java
+Patch succeeded: net/minecraft/client/resources/model/IBakedModel.java
+Patch succeeded: net/minecraft/client/resources/model/ModelBakery.java
+Patch succeeded: net/minecraft/client/resources/model/ModelManager.java
+Patch succeeded: net/minecraft/client/resources/model/ModelRotation.java
+Patch succeeded: net/minecraft/client/settings/GameSettings.java
+Patch succeeded: net/minecraft/client/shader/Framebuffer.java
+Patch succeeded: net/minecraft/command/CommandEnchant.java
+Patch succeeded: net/minecraft/command/CommandFill.java
+Patch succeeded: net/minecraft/command/CommandHandler.java
+Patch succeeded: net/minecraft/command/PlayerSelector.java
+Patch succeeded: net/minecraft/command/server/CommandSetBlock.java
+Patch succeeded: net/minecraft/command/server/CommandTestForBlock.java
+Patch succeeded: net/minecraft/crash/CrashReport.java
+Patch succeeded: net/minecraft/crash/CrashReportCategory.java
+Patch succeeded: net/minecraft/creativetab/CreativeTabs.java
+Patch succeeded: net/minecraft/enchantment/Enchantment.java
+Patch succeeded: net/minecraft/enchantment/EnchantmentHelper.java
+Patch succeeded: net/minecraft/entity/Entity.java
+Patch succeeded: net/minecraft/entity/EntityAgeable.java
+Patch succeeded: net/minecraft/entity/EntityHanging.java
+Patch succeeded: net/minecraft/entity/EntityList.java
+Patch succeeded: net/minecraft/entity/EntityLiving.java
+Patch succeeded: net/minecraft/entity/EntityLivingBase.java
+Patch succeeded: net/minecraft/entity/EntityMinecartCommandBlock.java
+Patch succeeded: net/minecraft/entity/EntitySpawnPlacementRegistry.java
+Patch succeeded: net/minecraft/entity/EntityTracker.java
+Patch succeeded: net/minecraft/entity/EntityTrackerEntry.java
+Patch succeeded: net/minecraft/entity/ai/EntityAIAttackOnCollide.java
+Patch succeeded: net/minecraft/entity/boss/EntityDragon.java
+Patch succeeded: net/minecraft/entity/boss/EntityWither.java
+Patch succeeded: net/minecraft/entity/boss/IBossDisplayData.java
+Patch succeeded: net/minecraft/entity/effect/EntityLightningBolt.java
+Patch succeeded: net/minecraft/entity/item/EntityEnderPearl.java
+Patch succeeded: net/minecraft/entity/item/EntityItem.java
+Patch succeeded: net/minecraft/entity/item/EntityItemFrame.java
+Patch succeeded: net/minecraft/entity/item/EntityMinecart.java
+Patch succeeded: net/minecraft/entity/item/EntityMinecartContainer.java
+Patch succeeded: net/minecraft/entity/item/EntityMinecartEmpty.java
+Patch succeeded: net/minecraft/entity/item/EntityMinecartFurnace.java
+Patch succeeded: net/minecraft/entity/item/EntityMinecartHopper.java
+Patch succeeded: net/minecraft/entity/item/EntityXPOrb.java
+Patch succeeded: net/minecraft/entity/monster/EntityEnderman.java
+Patch succeeded: net/minecraft/entity/monster/EntityMagmaCube.java
+Patch succeeded: net/minecraft/entity/monster/EntitySlime.java
+Patch succeeded: net/minecraft/entity/monster/EntityZombie.java
+Patch succeeded: net/minecraft/entity/passive/EntityHorse.java
+Patch succeeded: net/minecraft/entity/passive/EntityMooshroom.java
+Patch succeeded: net/minecraft/entity/passive/EntityOcelot.java
+Patch succeeded: net/minecraft/entity/passive/EntitySheep.java
+Patch succeeded: net/minecraft/entity/passive/EntityVillager.java
+Patch succeeded: net/minecraft/entity/player/EntityPlayer.java
+Patch succeeded: net/minecraft/entity/player/EntityPlayerMP.java
+Patch succeeded: net/minecraft/entity/player/InventoryPlayer.java
+Patch succeeded: net/minecraft/entity/projectile/EntityFishHook.java
+Patch succeeded: net/minecraft/init/Bootstrap.java
+Patch succeeded: net/minecraft/inventory/Container.java
+Patch succeeded: net/minecraft/inventory/ContainerBeacon.java
+Patch succeeded: net/minecraft/inventory/ContainerBrewingStand.java
+Patch succeeded: net/minecraft/inventory/ContainerEnchantment.java
+Patch succeeded: net/minecraft/inventory/ContainerPlayer.java
+Patch succeeded: net/minecraft/inventory/ContainerRepair.java
+Patch succeeded: net/minecraft/inventory/Slot.java
+Patch succeeded: net/minecraft/inventory/SlotCrafting.java
+Patch succeeded: net/minecraft/inventory/SlotFurnaceOutput.java
+Patch succeeded: net/minecraft/item/Item.java
+Patch succeeded: net/minecraft/item/ItemArmor.java
+Patch succeeded: net/minecraft/item/ItemBlock.java
+Patch succeeded: net/minecraft/item/ItemBow.java
+Patch succeeded: net/minecraft/item/ItemBucket.java
+Patch succeeded: net/minecraft/item/ItemBucketMilk.java
+Patch succeeded: net/minecraft/item/ItemDye.java
+Patch succeeded: net/minecraft/item/ItemEmptyMap.java
+Patch succeeded: net/minecraft/item/ItemFlintAndSteel.java
+Patch succeeded: net/minecraft/item/ItemHoe.java
+Patch succeeded: net/minecraft/item/ItemLilyPad.java
+Patch succeeded: net/minecraft/item/ItemMap.java
+Patch succeeded: net/minecraft/item/ItemMonsterPlacer.java
+Patch succeeded: net/minecraft/item/ItemRecord.java
+Patch succeeded: net/minecraft/item/ItemSeedFood.java
+Patch succeeded: net/minecraft/item/ItemSeeds.java
+Patch succeeded: net/minecraft/item/ItemShears.java
+Patch succeeded: net/minecraft/item/ItemSkull.java
+Patch succeeded: net/minecraft/item/ItemSnow.java
+Patch succeeded: net/minecraft/item/ItemStack.java
+Patch succeeded: net/minecraft/item/ItemSword.java
+Patch succeeded: net/minecraft/item/ItemTool.java
+Patch succeeded: net/minecraft/item/crafting/FurnaceRecipes.java
+Patch succeeded: net/minecraft/item/crafting/RecipeFireworks.java
+Patch succeeded: net/minecraft/item/crafting/RecipeRepairItem.java
+Patch succeeded: net/minecraft/item/crafting/RecipesArmorDyes.java
+Patch succeeded: net/minecraft/item/crafting/RecipesBanners.java
+Patch succeeded: net/minecraft/item/crafting/RecipesMapCloning.java
+Patch succeeded: net/minecraft/item/crafting/ShapedRecipes.java
+Patch succeeded: net/minecraft/item/crafting/ShapelessRecipes.java
+Patch succeeded: net/minecraft/nbt/CompressedStreamTools.java
+Patch succeeded: net/minecraft/nbt/NBTSizeTracker.java
+Patch succeeded: net/minecraft/nbt/NBTTagCompound.java
+Patch succeeded: net/minecraft/nbt/NBTTagString.java
+Patch succeeded: net/minecraft/network/NetHandlerPlayServer.java
+Patch succeeded: net/minecraft/network/NetworkManager.java
+Patch succeeded: net/minecraft/network/NetworkSystem.java
+Patch succeeded: net/minecraft/network/ServerStatusResponse.java
+Patch succeeded: net/minecraft/network/handshake/client/C00Handshake.java
+Patch succeeded: net/minecraft/network/play/client/C17PacketCustomPayload.java
+Patch succeeded: net/minecraft/network/play/server/S3FPacketCustomPayload.java
+Patch succeeded: net/minecraft/network/status/server/S00PacketServerInfo.java
+Patch succeeded: net/minecraft/potion/Potion.java
+Patch succeeded: net/minecraft/potion/PotionEffect.java
+Patch succeeded: net/minecraft/realms/RealmsConnect.java
+Patch succeeded: net/minecraft/server/MinecraftServer.java
+Patch succeeded: net/minecraft/server/dedicated/DedicatedServer.java
+Patch succeeded: net/minecraft/server/gui/MinecraftServerGui.java
+Patch succeeded: net/minecraft/server/integrated/IntegratedServer.java
+Patch succeeded: net/minecraft/server/management/ItemInWorldManager.java
+Patch succeeded: net/minecraft/server/management/PlayerManager.java
+Patch succeeded: net/minecraft/server/management/ServerConfigurationManager.java
+Patch succeeded: net/minecraft/server/network/NetHandlerHandshakeTCP.java
+Patch succeeded: net/minecraft/server/network/NetHandlerLoginServer.java
+Patch succeeded: net/minecraft/stats/StatList.java
+Patch succeeded: net/minecraft/tileentity/TileEntity.java
+Patch succeeded: net/minecraft/tileentity/TileEntityBeacon.java
+Patch succeeded: net/minecraft/tileentity/TileEntityBrewingStand.java
+Patch succeeded: net/minecraft/tileentity/TileEntityFurnace.java
+Patch succeeded: net/minecraft/tileentity/TileEntityHopper.java
+Patch succeeded: net/minecraft/tileentity/TileEntityNote.java
+Patch succeeded: net/minecraft/tileentity/TileEntityPiston.java
+Patch succeeded: net/minecraft/tileentity/TileEntitySign.java
+Patch succeeded: net/minecraft/util/ChatComponentStyle.java
+Patch succeeded: net/minecraft/util/ChatStyle.java
+Patch succeeded: net/minecraft/util/EnumFacing.java
+Patch succeeded: net/minecraft/util/EnumWorldBlockLayer.java
+Patch succeeded: net/minecraft/util/IChatComponent.java
+Patch succeeded: net/minecraft/util/MouseHelper.java
+Patch succeeded: net/minecraft/util/MovingObjectPosition.java
+Patch succeeded: net/minecraft/util/ResourceLocation.java
+Patch succeeded: net/minecraft/util/Session.java
+Patch succeeded: net/minecraft/util/StringTranslate.java
+Patch succeeded: net/minecraft/util/Vec3.java
+Patch succeeded: net/minecraft/util/WeightedRandomChestContent.java
+Patch succeeded: net/minecraft/world/ChunkCache.java
+Patch succeeded: net/minecraft/world/Explosion.java
+Patch succeeded: net/minecraft/world/IBlockAccess.java
+Patch succeeded: net/minecraft/world/SpawnerAnimals.java
+Patch succeeded: net/minecraft/world/World.java
+Patch succeeded: net/minecraft/world/WorldProvider.java
+Patch succeeded: net/minecraft/world/WorldServer.java
+Patch succeeded: net/minecraft/world/WorldServerMulti.java
+Patch succeeded: net/minecraft/world/WorldType.java
+Patch succeeded: net/minecraft/world/biome/BiomeColorHelper.java
+Patch succeeded: net/minecraft/world/biome/BiomeDecorator.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenBase.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenForest.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenHills.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenJungle.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenPlains.java
+Patch succeeded: net/minecraft/world/biome/BiomeGenSwamp.java
+Patch succeeded: net/minecraft/world/biome/WorldChunkManager.java
+Patch succeeded: net/minecraft/world/border/WorldBorder.java
+Patch succeeded: net/minecraft/world/chunk/Chunk.java
+Patch succeeded: net/minecraft/world/chunk/storage/AnvilChunkLoader.java
+Patch succeeded: net/minecraft/world/chunk/storage/AnvilSaveHandler.java
+Patch succeeded: net/minecraft/world/chunk/storage/ExtendedBlockStorage.java
+Patch succeeded: net/minecraft/world/chunk/storage/RegionFile.java
+Patch succeeded: net/minecraft/world/gen/ChunkProviderEnd.java
+Patch succeeded: net/minecraft/world/gen/ChunkProviderGenerate.java
+Patch succeeded: net/minecraft/world/gen/ChunkProviderHell.java
+Patch succeeded: net/minecraft/world/gen/ChunkProviderServer.java
+Patch succeeded: net/minecraft/world/gen/MapGenCaves.java
+Patch succeeded: net/minecraft/world/gen/MapGenRavine.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenAbstractTree.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenBigMushroom.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenBigTree.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenCanopyTree.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenDeadBush.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenDungeons.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenForest.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenHugeTrees.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenMegaJungle.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenMegaPineTree.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenMinable.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenSavannaTree.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenShrub.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenSwamp.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenTaiga1.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenTaiga2.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenTallGrass.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGenTrees.java
+Patch succeeded: net/minecraft/world/gen/feature/WorldGeneratorBonusChest.java
+Patch succeeded: net/minecraft/world/gen/layer/GenLayer.java
+Patch succeeded: net/minecraft/world/gen/layer/GenLayerBiome.java
+Patch succeeded: net/minecraft/world/gen/structure/ComponentScatteredFeaturePieces.java
+Patch succeeded: net/minecraft/world/gen/structure/MapGenStronghold.java
+Patch succeeded: net/minecraft/world/gen/structure/MapGenStructure.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureComponent.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureMineshaftPieces.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureNetherBridgePieces.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureStart.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureStrongholdPieces.java
+Patch succeeded: net/minecraft/world/gen/structure/StructureVillagePieces.java
+Patch succeeded: net/minecraft/world/storage/MapData.java
+Patch succeeded: net/minecraft/world/storage/SaveHandler.java
+Patch succeeded: net/minecraft/world/storage/WorldInfo.java
+:applySourcePatches (Thread[main,5,main]) completed. Took 5.641 secs.
+:remapMcSources (Thread[main,5,main]) started.
+:remapMcSources
+No output file found.
+Executing task ':remapMcSources' (up-to-date check took 0.18 secs) due to:
+  No history is available.
+:remapMcSources (Thread[main,5,main]) completed. Took 9.171 secs.
+:recompileMc (Thread[main,5,main]) started.
+:recompileMc
+No output file found.
+Executing task ':recompileMc' (up-to-date check took 0.001 secs) due to:
+  No history is available.
+[ant:javac] Compiling 2119 source files to C:\Java\Minecraft\WonderCraft\build\tmp\recompileMc\compiled
+[ant:javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+[ant:javac] Note: Some input files use or override a deprecated API.
+[ant:javac] Note: Recompile with -Xlint:deprecation for details.
+[ant:javac] Note: Some input files use unchecked or unsafe operations.
+[ant:javac] Note: Recompile with -Xlint:unchecked for details.
+[ant:javac] 1 warning
+:recompileMc (Thread[main,5,main]) completed. Took 47.755 secs.
+:extractNatives (Thread[main,5,main]) started.
+:extractNatives
+No output file found.
+Executing task ':extractNatives' (up-to-date check took 0.238 secs) due to:
+  No history is available.
+:extractNatives (Thread[main,5,main]) completed. Took 1.614 secs.
+:getAssetIndex (Thread[main,5,main]) started.
+:getAssetIndex
+Executing task ':getAssetIndex' (up-to-date check took 0.007 secs) due to:
+  Task.upToDateWhen is false.
+:getAssetIndex (Thread[main,5,main]) completed. Took 1.469 secs.
+:getAssets (Thread[main,5,main]) started.
+:getAssets
+Executing task ':getAssets' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+Current status: 29/734   3%
+Current status: 63/734   8%
+Current status: 106/734   14%
+Current status: 137/734   18%
+Current status: 199/734   27%
+Current status: 262/734   35%
+Current status: 296/734   40%
+Current status: 324/734   44%
+Current status: 381/734   51%
+Current status: 417/734   56%
+Current status: 463/734   63%
+Current status: 511/734   69%
+Current status: 537/734   73%
+Current status: 557/734   75%
+Current status: 589/734   80%
+Current status: 659/734   89%
+Current status: 702/734   95%
+:getAssets (Thread[main,5,main]) completed. Took 18.144 secs.
+:makeStart (Thread[main,5,main]) started.
+:makeStart
+No cache file found.
+Executing task ':makeStart' (up-to-date check took 0.002 secs) due to:
+  No history is available.
+[ant:javac] Compiling 6 source files to C:\Users\mr.zoom\.gradle\caches\minecraft\net\minecraftforge\forge\1.8.8-11.15.0.1655\start
+[ant:javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+[ant:javac] 1 warning
+:makeStart (Thread[main,5,main]) completed. Took 0.622 secs.
+:setupDecompWorkspace (Thread[main,5,main]) started.
+:setupDecompWorkspace
+Skipping task ':setupDecompWorkspace' as it has no actions.
+:setupDecompWorkspace (Thread[main,5,main]) completed. Took 0.0 secs.
+:ideaModule (Thread[main,5,main]) started.
+:ideaModule
+Executing task ':ideaModule' (up-to-date check took 0.001 secs) due to:
+  Task.upToDateWhen is false.
+file or directory 'C:\Java\Minecraft\WonderCraft\libs', not found
+file or directory 'C:\Java\Minecraft\WonderCraft\libs', not found
+file or directory 'C:\Java\Minecraft\WonderCraft\libs', not found
+file or directory 'C:\Java\Minecraft\WonderCraft\libs', not found
+:: loading settings :: url = jar:file:/C:/Users/mr.zoom/.gradle/wrapper/dists/gradle-2.7-bin/4s0fcuuppw3tjb1sxpzh16mne/gradle-2.7/lib/plugins/ivy-2.2.0.jar!/org/apache/ivy/core/settings/ivysettings.xml
+Download https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12-javadoc.jar]
+Download https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13-sources.jar
+Download https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13-javadoc.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3-sources.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3-javadoc.jar
+Download https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3-sources.jar
+Download https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3-javadoc.jar
+Download https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
+Download https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1-sources.jar]
+Download https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2-javadoc.jar]
+Download https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+Download https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-javadoc.jar
+Download https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1-javadoc.jar]
+Download https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.4.0/jna-3.4.0-sources.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.4.0/jna-3.4.0-javadoc.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/platform/3.4.0/platform-3.4.0-sources.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/platform/3.4.0/platform-3.4.0-javadoc.jar
+Download https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2-javadoc.jar]
+Download https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6-sources.jar
+Download https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6-javadoc.jar
+Download https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023-javadoc.jar]
+Download https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023-javadoc.jar]
+Download https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123-javadoc.jar]
+Download https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824-javadoc.jar]
+Download https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107-javadoc.jar]
+Download https://repo1.maven.org/maven2/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final-sources.jar
+Download https://repo1.maven.org/maven2/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final-javadoc.jar
+Download https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0-sources.jar
+Download https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0-javadoc.jar
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-javadoc.jar
+Download https://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4-sources.jar
+Download https://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4-javadoc.jar
+Download https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+Download https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-javadoc.jar
+Download https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar
+Download https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5-javadoc.jar
+Download https://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0-sources.jar
+Download https://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0-javadoc.jar
+Download https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar
+Download https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4-javadoc.jar
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21-sources.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21-javadoc.jar]
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/com/mojang/realms/1.7.39/realms-1.7.39-sources.jar]
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-javadoc.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-javadoc.jar
+Download https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+Download https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-javadoc.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-javadoc.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar
+Download https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209-sources.jar
+Download https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209-javadoc.jar
+Download https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209-sources.jar
+Download https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209-javadoc.jar
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5-sources.jar]
+Download https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11-sources.jar
+Download https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11-javadoc.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0-sources.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0-javadoc.jar
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-sources.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-javadoc.jar]
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-sources.jar]
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-sources.jar]
+Failed to get resource: HEAD. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-sources.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1-sources.jar]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1-javadoc.jar]
+Resource missing. [HTTP GET: http://files.minecraftforge.net/maven/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.jar]
+Resource missing. [HTTP GET: https://repo1.maven.org/maven2/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.pom]
+Resource missing. [HTTP HEAD: https://repo1.maven.org/maven2/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.jar]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.pom]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/net/minecraftforge/forgeSrc/1.8.8-11.15.0.1655/forgeSrc-1.8.8-11.15.0.1655.pom]
+:ideaModule (Thread[main,5,main]) completed. Took 1 mins 39.79 secs.
+:ideaProject (Thread[main,5,main]) started.
+:ideaProject
+Executing task ':ideaProject' (up-to-date check took 0.0 secs) due to:
+  Task.upToDateWhen is false.
+:ideaProject (Thread[main,5,main]) completed. Took 0.476 secs.
+:ideaWorkspace (Thread[main,5,main]) started.
+:ideaWorkspace
+Executing task ':ideaWorkspace' (up-to-date check took 0.001 secs) due to:
+  Task.upToDateWhen is false.
+:ideaWorkspace (Thread[main,5,main]) completed. Took 0.99 secs.
+:idea (Thread[main,5,main]) started.
+:idea
+Skipping task ':idea' as it has no actions.
+:idea (Thread[main,5,main]) completed. Took 0.0 secs.
+
+BUILD SUCCESSFUL
+
+Total time: 37 mins 56.765 secs
+Stopped 0 compiler daemon(s).
