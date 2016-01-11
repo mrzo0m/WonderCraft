@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
+  "modid": "WonderCraft",
+  "name": "WonderCraft",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/mrzo0m/WonderCraft.git",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["mrzoom.214@gmail.com"],
+  "credits": "Demo just for fun",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
